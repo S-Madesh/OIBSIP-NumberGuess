@@ -4,7 +4,7 @@ conducted by OasisInfobyte
 Number Guessing Game
 page 1:
 
-This game involves the user to identify number generated within a given range.For example the range applied in this game is 0-10.
+This game involves the user to identify number generated within a given range.For example the range applied in this game is 1-100.
 The page includes the user name,number of attempts left,the random number generated and the result of the game.
 There is also a database which stores the player name,Guessed number,random number generated,result of the game and the number of attempts left.
 By clicking start button which will generate the random number within the given range by appropriate function mentioned.The user should enter their guess and additionally a message was dispalyed whether the user's guess is higher or lower or equal to the number generated randomly.
